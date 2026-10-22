@@ -1,4 +1,4 @@
-# 🚀 My DSA Learning Journey (Java)
+# 🚀 My DSA Learning Journey (C++)
 
 Hey! Tanmay here. 👋
 
@@ -10,7 +10,7 @@ I believe in learning in public, so I am documenting everything here—from the 
 
 Instead of following a single tutorial, I am mixing a few different approaches to get the best of both practical coding and theoretical knowledge:
 
-1. **Video Course:** Following the **50-hour DSA with Java course by freeCodeCamp** for practical implementation and coding patterns.
+1. **Video Course:** Following the **50-hour DSA with C++ course by freeCodeCamp** for practical implementation and coding patterns.
 2. **Theory & Concepts:** Reading **"Grokking Algorithms"** to understand the formal definitions, visual explanations, and theoretical foundations.
 3. **Practice:** Solving problems on **LeetCode** to apply what I've learned and improve my problem-solving skills.
 4. **Documentation:** Taking notes and writing clean code in this repository to reinforce my learning.
@@ -22,7 +22,7 @@ Instead of following a single tutorial, I am mixing a few different approaches t
 Here is how I am organizing my notes and code:
 
 - `/Notes`: Markdown files containing my summary notes from the video course and book.
-- `/Code`: Java implementation of various data structures and algorithms from scratch.
+- `/Code`: C++ implementation of various data structures and algorithms from scratch.
 - `/LeetCode`: Solutions to LeetCode problems (organized by topic or difficulty).
 - `/Resources`: Links to helpful articles, videos, and cheat sheets I find along the way.
 
@@ -30,7 +30,7 @@ Here is how I am organizing my notes and code:
 
 ## 🛠️ Tech Stack & Tools
 
-- **Language:** Java (JDK 17+)
+- **Language:** C++
 - **IDE:** Cursor/ VS code
 - **Version Control:** Git & GitHub
 
